@@ -10,7 +10,7 @@ public class frontController {
     @RequestMapping(value = {
             "/",
     }, method = RequestMethod.GET)
-    public String getReactApp() {
+    public String getAngularApp() {
         return "forward:/index.html";
     }
 }

@@ -1,4 +1,4 @@
-package com.compiladores.models;
+package com.compiladores.compiladores.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
